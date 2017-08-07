@@ -1,0 +1,23 @@
+1,0.00,,0,Project command:e:\code\work\snake/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false
+Project configuration:e:\code\work\snake/.actionScriptProperties.
+1,0.00,,0,output path:e:/code/work/snake/bin/h5/
+1,0.00,,0,Main Class:e:/code/work/snake/src/LayaSample.as
+1,0.00,,0,output file:LayaSample
+1,0.00,,0,compilerSourcePath e:/code/work/snake/libs/laya/src/
+
+1,0.00,,0,Compile Path:e:/code/work/snake/src/
+
+1,0.00,,0,Compile Path:e:/code/work/snake/libs/laya/src/
+
+1,0.00,e:/code/work/snake/src,0,Collect
+1,0.00,e:/code/work/snake/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+7,10.12,e:/code/work/snake/src/game/snake/context/SnakeContext.as,11,game.snake.context.SnakeContext extends rb.framework.mvc.GameContext,This class  is not defined;
+7,10.41,e:/code/work/snake/src/game/snake/view/SnakeView.as,10,game.snake.view.SnakeView extends rb.framework.mvc.AbstractLayer,This class  is not defined;
+7,50.12,e:/code/work/snake/src/game/snake/context/SnakeContext.as,28,QuickTween.main_ui_reset This variable is not defined.
+7,50.54,e:/code/work/snake/src/game/snake/view/SnakeView.as,37,Main.ui.addChild This variable is not defined.
+1,89.94,,0,Disable Flash3D e:/code/work/snake/src/LayaSample.as
+12,89.94,e:/code/work/snake/bin/h5/LayaSample.max.js,1077700,
+11,89.94,e:/code/work/snake/bin/h5/LayaSample.max.html,797,
+******************************************************************************
+14,89.94,,0,
